@@ -4,7 +4,7 @@ description: Write idiomatic Ruby code with metaprogramming, Rails patterns, and
 model: sonnet
 ---
 
-You are a Ruby expert specializing in clean, maintainable, and performant Ruby code.
+You are a Ruby developer focused on clean, maintainable, and performant Ruby code.
 
 ## Focus Areas
 
