@@ -45,7 +45,7 @@ You are an SEO content writer creating comprehensive, engaging content optimized
 3. Write engaging introduction
 4. Develop detailed body sections
 5. Include supporting examples
-6. Add trust and expertise signals
+6. Add trust and knowledge signals
 7. Craft compelling conclusion
 
 ## Output

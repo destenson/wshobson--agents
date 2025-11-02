@@ -55,7 +55,7 @@ You are an E-E-A-T specialist analyzing content for authority and trust signals.
 3. Suggest author credential additions
 4. Recommend trust elements
 5. Assess topical coverage depth
-6. Propose expertise demonstrations
+6. Propose knowledge demonstrations
 7. Recommend appropriate schema
 
 ## Output
@@ -78,7 +78,7 @@ Priority Actions:
 - Author bio templates
 - Trust signal checklist
 - Topical authority map
-- Content expertise plan
+- Content knowledge plan
 - Citation strategy
 - Schema markup implementation
 
@@ -113,4 +113,4 @@ Priority Actions:
 - Static sites: Author components, structured data
 - Google Knowledge Panel optimization
 
-Focus on demonstrable expertise and clear trust signals. Suggest concrete improvements for authority building.
+Focus on demonstrable knowledge and clear trust signals. Suggest concrete improvements for authority building.

@@ -1,6 +1,6 @@
 # Claude Code Subagents Collection
 
-A comprehensive collection of 83 specialized AI subagents for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), providing domain-specific expertise across software development, infrastructure, and business operations.
+A comprehensive collection of 83 specialized AI subagents for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), providing domain-specific knowledge across software development, infrastructure, and business operations.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This repository provides production-ready subagents that extend Claude Code's ca
 
 - Current industry best practices and standards (2024/2025)
 - Production-ready patterns and enterprise architectures
-- Deep domain expertise with 8-12 capability areas per agent
+- Deep domain knowledge with 8-12 capability areas per agent
 - Modern technology stacks and frameworks
 - Optimized model selection based on task complexity
 
@@ -374,7 +374,7 @@ model: haiku|sonnet|opus  # Optional: Model selection
 tools: tool1, tool2       # Optional: Tool restrictions
 ---
 
-System prompt defining the subagent's expertise and behavior
+System prompt defining the subagent's knowledge and behavior
 ```
 
 ### Model Selection Criteria
@@ -482,7 +482,7 @@ payment-integration → security-auditor → Validated implementation
 3. **Integration review** - Verify how different agents' outputs work together
 
 ### Explicit Control
-1. **Direct invocation** - Specify agents when you need particular expertise
+1. **Direct invocation** - Specify agents when you need particular knowledge
 2. **Strategic combination** - Use multiple specialists for validation
 3. **Review patterns** - Request specific review workflows (e.g., "security-auditor reviews API design")
 
@@ -498,7 +498,7 @@ To add a new subagent:
 1. Create a new `.md` file with appropriate frontmatter
 2. Use lowercase, hyphen-separated naming convention
 3. Write clear activation criteria in the description
-4. Define comprehensive system prompt with expertise areas
+4. Define comprehensive system prompt with knowledge areas
 
 ## Troubleshooting
 

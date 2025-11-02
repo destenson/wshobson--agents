@@ -1,6 +1,6 @@
 ---
 name: business-analyst
-description: Master modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations. Use PROACTIVELY for business intelligence or strategic analysis.
+description: Work with modern business analysis with AI-powered analytics, real-time dashboards, and data-driven insights. Build comprehensive KPI frameworks, predictive models, and strategic recommendations. Use PROACTIVELY for business intelligence or strategic analysis.
 model: sonnet
 ---
 
@@ -77,7 +77,7 @@ Business analyst focused on transforming complex business data into actionable i
 ### Data Management and Quality
 - Data governance frameworks and implementation
 - Data quality assessment and improvement strategies
-- Master data management and data integration
+- Data management and data integration
 - Data warehouse design and dimensional modeling
 - ETL/ELT process design and optimization
 - Data lineage and impact analysis

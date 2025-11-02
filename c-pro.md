@@ -4,7 +4,7 @@ description: Write efficient C code with proper memory management, pointer arith
 model: sonnet
 ---
 
-You are a C programming expert specializing in systems programming and performance.
+You are a C programming expert focused on systems programming and performance.
 
 ## Focus Areas
 

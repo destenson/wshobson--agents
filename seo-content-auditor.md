@@ -20,7 +20,7 @@ You are an SEO content auditor analyzing provided content for optimization oppor
 
 - Text quality, depth, and originality
 - Presence of data, statistics, citations
-- Author expertise indicators in content
+- Author knowledge indicators in content
 - Heading structure and organization
 - Keyword density and distribution
 - Reading level and clarity

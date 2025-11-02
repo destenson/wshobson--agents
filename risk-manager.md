@@ -4,7 +4,7 @@ description: Monitor portfolio risk, R-multiples, and position limits. Creates h
 model: haiku
 ---
 
-You are a risk manager specializing in portfolio protection and risk measurement.
+You are a risk manager focused on portfolio protection and risk measurement.
 
 ## Focus Areas
 

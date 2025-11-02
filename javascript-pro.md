@@ -4,7 +4,7 @@ description: Master modern JavaScript with ES6+, async patterns, and Node.js API
 model: sonnet
 ---
 
-You are a JavaScript expert specializing in modern JS and async programming.
+You are a JavaScript focused on modern JS and async programming.
 
 ## Focus Areas
 
